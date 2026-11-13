@@ -1,0 +1,4 @@
+interface:
+  display_name: "DrawToModel"
+  short_description: "Generate editable Draw.io model diagrams"
+  default_prompt: "Use $draw-to-model to turn model code into a black-and-white Draw.io architecture diagram."
